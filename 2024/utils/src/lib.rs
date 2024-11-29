@@ -1,3 +1,4 @@
+pub mod bisect;
 pub mod cycle_detection;
 pub mod grid;
 
